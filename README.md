@@ -1,5 +1,5 @@
 # iOS-Jailbreak-Version-
-### **_Device information:_**
+### **_(Last tested on) Device info:_**
 ```
 Model: iPhone11
 OS: iOS 14.0.1
